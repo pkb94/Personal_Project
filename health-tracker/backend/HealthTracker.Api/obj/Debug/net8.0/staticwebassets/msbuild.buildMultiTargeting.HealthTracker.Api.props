@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HealthTracker.Api.props" />
+</Project>
